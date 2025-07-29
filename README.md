@@ -14,15 +14,11 @@ Este projeto tem como objetivo desenvolver uma rede neural convolucional baseada
   * **PNEUMONIA**: com sinais visíveis da doença
 * Estrutura:
 
-  ```
-  ```
-
 /chest\_xray/
 ├── train/
 ├── val/
 └── test/
 
-```
 - Distribuição dos dados:
   - **Treino**: 1.341 (NORMAL), 3.875 (PNEUMONIA)
   - **Validação**: 8 (NORMAL), 8 (PNEUMONIA)
