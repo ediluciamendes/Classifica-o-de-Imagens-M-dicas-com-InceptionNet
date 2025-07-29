@@ -64,7 +64,7 @@ A InceptionNet utiliza módulos Inception, que aplicam vários filtros convoluci
 
 ---
 
-## Código
+## Explicação do Código
 
 ### Importações
 Importa bibliotecas para manipulação de dados, imagens, redes neurais e métricas.
